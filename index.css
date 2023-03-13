@@ -1,0 +1,367 @@
+body{
+    margin: 0;
+}
+/*CÔNG DỤNG*/
+.section6{
+    width: 100%;
+    height: 500px;
+    max-height: 500px;
+    background-image: linear-gradient(0,white,#FFF09F);
+    padding-top: 10px;
+}
+.section6 .title{
+    width: 40%;
+    height: 45px;
+    background-color: black;
+    margin-left: 30%;
+    border-radius: 30px;
+    text-align: center;
+
+}
+.section6 .title h4{
+    padding-top: 12px;
+    color: white;
+    font-size: 22px;
+    margin: 10px 0;
+    font-family:  'Kaiti TC';
+}
+.section6 .u-pd{
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    
+}
+.section6 .u-pd .box1{
+    width: 40%;
+    float: left;
+    height: 400px;
+    align-items: center;
+    text-align: center;
+}
+.section6 .u-pd .box1 h4{
+    margin: 80px 80px 80px 0;
+}
+.section6 .u-pd .box3 h4{
+    margin: 80px 80px 80px 0;
+}
+.section6 .u-pd .box2{
+    width: 20%;
+    float: left;
+    height: 400px;
+}
+.section6 .u-pd .box3{
+    width: 40%;
+    float: left;
+    height: 400px;
+    text-align: center;
+}
+.end{
+    background-color: black;
+    width: 65%;
+    height: 3px;
+    margin-left: 17.5%;
+    margin-top: 41px;
+}
+.section6 .u-pd .box1 .u-box img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    float: left;
+    margin-left: 130px;
+}
+.section6 .u-pd .box3 .u-box img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    float: right;
+    margin-right: 130px;
+}
+.section6 .u-pd .box2 img{
+    margin-top: 20px;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+/*CÔNG THỨC*/
+.section7{
+    width: 100%;
+    height: 500px;
+    max-height: 500px;
+    padding-top: 20px;
+}
+.section7 .rec-title{
+    width: 40%;
+    height: 45px;
+    margin-left: 30%;
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+
+}
+.section7 .rec-title h4{
+    color: aliceblue;
+    font-size: 25px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-family:  'Kaiti TC';
+
+}
+.section7 .rec-img{
+    width: 70%;
+    height: 400px;
+    margin-left: 15%;
+    margin-top: 10px;
+}
+.section7 .rec-img .img2{
+    float: right;
+}
+.section7 .rec-img .rep-img{
+    width: 60%;
+    height: 100%;
+    float: right;
+    background-color: #F3EE60;
+}
+/*ĐÁNH GIÁ*/
+.section8{
+    width: 100%;
+    height: 310px; 
+}
+.section8 .container{
+    box-shadow: 10px 10px lightgray;
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(-60deg, #F3EE60 60%, #FFFFCC 40%);
+}
+.section8 .container .eva{
+    width: 40%;
+    height: 45px;
+    margin-left: 30%;
+    background-color: black;
+    border-radius: 30px;
+    position: relative;
+    top: -23px;
+    text-align: center;
+}
+.section8 .container .eva h4{
+    color: aliceblue;
+    font-size: 23px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-family:  'Kaiti TC';
+}
+.section8 .container .cus-exp1{
+    width: 34%;
+    height: 20%;
+    background-color: #FCE58E    ;
+    position: absolute;
+    right: 600px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section8 .container .cus-exp1 span{
+    margin: 0 5px;
+}
+.section8 .container .cus-exp2{
+    width: 34%;
+    height: 20%;
+    background-color: black;
+    float: right;
+    position: absolute;
+    left: 600px;
+    margin-top: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section8 .container .cus-exp2 span{
+    color: white;
+    font-weight: 500;
+    margin: 0 5px;
+}
+.section8 .container .cus1{
+    position: absolute;
+    left: 350px;
+    margin-top: 110px;
+}
+.section8 .container .cus1 .re-cus1 p{
+   margin-top: 0px;
+    margin-left: 50px;
+}
+.section8 .container .cus1 .re-cus1 h4{
+    margin-left: 40px;
+}
+.section8 .container .cus2 .re-cus2 p{
+    margin-top: 0px;
+     margin-left: 80px;
+ }
+ .section8 .container .cus2 .re-cus2 h4{
+     margin-left: 50px;
+ }
+.section8 .container .cus-img{
+    width: 60px;
+    height: 60px;
+    background-color: #D9D9D9;
+    float: left;
+    margin-right: 10px;
+    border-radius: 100%;
+}
+
+.section8 .container .cus2{
+    position: absolute;
+    left: 740px;
+    margin-top: 165px;
+}
+/*ĐIỀN THÔNG TIN*/
+.section9{
+    width: 100%;
+    height: 500px;
+    max-height: 500px;
+    margin: 20px 10%;
+}
+.section9 .deal{
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+.section9 .deal .end{
+    background-color: black;
+    width: 50%;
+    height: 3px;
+}
+.section9 .deal h4{
+    font-size: 28px;
+}
+.section9 .deal .img-pro{
+    width: 70%;
+    height: 50%;
+    margin-top: 10px;
+}
+.section9 .sign{
+    width: 40%;
+    height: 100%;
+    background-color: #FFE589;
+    float: left;
+}
+.section9 .not{
+    width: 70%;
+    height: 15%;
+    margin-left: 15%;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.section9 .not h2{
+   margin: 0;
+   color: white;
+}
+.section9 .en-sign{
+    width: 90%;
+    height: 70%;
+    margin: 5%;
+    border: 3px solid white;
+    border-radius: 10px;
+    align-items: center;
+}
+.section9 .en-sign .a{
+    width: 90%;
+    height: 50px;
+    margin: 20px;
+    margin-left: 20px;
+    border: 3px solid #D9D9D9;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+}
+.section9 .en-sign .b{
+    width: 40%;
+    height: 50px;
+    border: 3px solid red;
+    background-color: red;
+    align-items: center;
+    margin-left: 30%;
+    border-radius: 10px;
+}
+/*ĐÓNG GÓP*/
+.section10{
+    width: 100%;
+    height: 190px;
+    background-image: url('img/bg-sc10.png');
+    background-size: 100% 100%;
+}
+.section10 .opi{
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+.section10 .opi .opi-click{
+    width: 50%;
+    height: 40px;
+    background-color: black;
+    margin-left: 25%;
+    border-radius: 20px;
+    margin-top: 60px;
+    text-align: center;
+    padding-top: 20px;
+}
+.section10 .opi .opi-click a{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+.section10 .e-email{
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+.section10 .e-email .input-e{
+    width: 40%;
+    height: 50px;
+    margin-left: 30%;
+    margin-top: 65px;
+}
+.section10 .e-email .input-e .a{
+    width: 80%;
+    height: 100%;
+    border-radius: 10px 0px 0px 10px;
+}
+.section10 .e-email .input-e .b{
+    width: 15%;
+    height: 56px;
+    border-radius: 0px 10px 10px 0px;
+    background-color: black;
+    float: right;
+    color: white;
+}
+/*FOOTER*/
+footer{
+    text-align: center;
+    width: 100%;
+    height: 190px;
+}
+footer .learn{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+footer .pocity{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+footer .contact{
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+footer h2{
+    font-size: 20px;
+}
+footer ul li{
+    list-style: none;
+}
